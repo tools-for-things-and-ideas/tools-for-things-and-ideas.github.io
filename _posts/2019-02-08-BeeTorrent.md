@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: BeeTorrent
+published: true
 ---
 ## Beetorrent, an obsolescence statement
 
