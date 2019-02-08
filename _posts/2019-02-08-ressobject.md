@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RessObject
+title: Resurrected Object
 published: true
 ---
 Collaboration with Elias Heuninck, Kristel Peeters and Maria Boto Ordonez.
