@@ -12,3 +12,10 @@ In this installation we see a 3d printed object on a pedestal that is filled wit
 
 As a companion to this setup there is also a display with a rendered journey through the original, mushroom-free object in virtual reality.
 
+![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010115.JPG)
+![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010118.JPG)
+![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010120.JPG)
+![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010122.JPG)
+![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010124.JPG)
+
+
