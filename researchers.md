@@ -20,3 +20,4 @@ The researchers for 'tools for things and ideas' are:
 - [Jara Rocha](http://jararocha.blogspot.com/)
 - [Daniel Rourke](http://machinemachine.net/)
 - [Femke Snelting](http://snelting.domainepublic.net/)
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
