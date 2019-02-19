@@ -59,7 +59,7 @@ Another verision of the [Dunaliella salina](http://laboratorium.bio/colorlab.htm
 
 ![](/images/biocolor-1010236.JPG)
 ![](/images/biocolor-1010242.JPG)
-The filament diameter was hard to maintain, and we had to cut out the parts that were too wide to fit the extruder. It took three pieces of filament to print this test-bar.
+The filament diameter changed quite a bit. We had to cut out the parts that were too wide to fit the extruder. It took three pieces of filament to print this test-bar.
 
 
 ### Pink
