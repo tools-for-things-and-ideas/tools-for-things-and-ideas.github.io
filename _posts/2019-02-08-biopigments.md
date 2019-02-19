@@ -5,6 +5,8 @@ published: true
 ---
 With Maria Boto from the [bio-lab](http://laboratorium.bio/) at the School of Arts in Ghent, we did a first test to infuse PLA filament with microalgae pigments. We started from PLA Granulate, added the color powder to it and gave it a good shake to distribute the color onto the surface of the pellets. Then we extruded the pellets in the same way regular PLA filament would be extruded. It's interesting to see how the powder doesn't dissolve, but is rather suspended in the filament. This results in a sparkly texture. 
 
+A project from María Boto and Elias Heuninck.
+
 ### Orange
 
 ![](/images/biocolor-1010192.JPG)
