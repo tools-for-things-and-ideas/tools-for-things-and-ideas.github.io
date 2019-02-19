@@ -58,6 +58,9 @@ The blue pigment didn't survive the heat. It turned a dark brown/grey color.
 Another verision of the [Dunaliella salina](http://laboratorium.bio/colorlab.html#dunaliella-salina) carotene pigment had a less pure extraction, which meant that the color was more yellow-ish. The resulting pigment didn't however had any un-dissolved particles suspended in the filament. It turned out a slightly pale and smooth yellow.
 
 ![](/images/biocolor-1010236.JPG)
+![](/images/biocolor-1010242.JPG)
+The filament diameter was hard to maintain, and we had to cut out the parts that were too wide to fit the extruder. It took three pieces of filament to print this test-bar.
+
 
 ### Pink
 
