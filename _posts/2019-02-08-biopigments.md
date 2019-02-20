@@ -70,6 +70,6 @@ We tried a brilliant pink colour. The pigment is called [phycoerithrin](http://l
 ![](/images/biocolor-1010227.JPG)
 The extrusion turns the pigment into very small particles of pigment. The heat makes the colour change to a medium brown.
 
-![](/omages/biocolor-1010243.JPG)
+![](/images/biocolor-1010243.JPG)
 I'll call this one stracciatella!
  
