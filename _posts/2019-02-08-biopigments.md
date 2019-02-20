@@ -68,4 +68,8 @@ The filament diameter changed quite a bit. We had to cut out the parts that were
 We tried a brilliant pink colour. The pigment is called [phycoerithrin](http://laboratorium.bio/colorlab.html#porphyridium-purpureum) and it's made by the micro alga Porphyridium purpureum.
 
 ![](/images/biocolor-1010227.JPG)
-The extrusion turns the pigment into very small particles of pigment. The heat makes the colour change to a medium brown. I'll call this one stracciatella!
+The extrusion turns the pigment into very small particles of pigment. The heat makes the colour change to a medium brown.
+
+![](/omages/biocolor-1010243.JPG)
+I'll call this one stracciatella!
+ 
