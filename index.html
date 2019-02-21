@@ -4,8 +4,8 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <div>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <div class="poster">
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <p class="summary">{{post.summary}}</p>
         <img src="/images/{{post.poster-image}}" alt="">
     </div>
