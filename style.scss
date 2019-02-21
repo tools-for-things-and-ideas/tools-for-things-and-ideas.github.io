@@ -181,7 +181,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  float: none;
 
   @include mobile {
     float: none;
@@ -203,6 +203,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: $sitename;
   font-size: 16px;
 
   @include mobile {
@@ -211,9 +212,9 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  float: none;
+  margin-top: 15px; // @TODO: Vertically middle align
+  font-family: $sitename;
   font-size: 18px;
 
   @include mobile {
