@@ -289,9 +289,16 @@ footer {
 }
 
 
-.summary {
-
+p.summary {
+  margin: 15px 0;
 }
+
+.poster {
+  width: 260px;
+}
+
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
