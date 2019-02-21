@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Resurrected Object
+summary: An AI program observes a mycelium infused 3D print
+poster-image: resurrected-object-poster.jpg
 published: true
 ---
 A project from Jerry Galle in collaboration with Elias Heuninck, Kristel Peeters and Maria Boto Ordonez.
