@@ -10,6 +10,8 @@ In this installation we see a 3d printed object on a pedestal that is filled wit
 - Until April 21st: Design Museum Ghent: exhibition [Fibre-Fixed](https://www.designmuseumgent.be/en/events/fibre-fixed).
 - RessObject will be exhibited by Gluon in: Printemps Numérique, a 2-day festival for digital culture initiated by the Brussels Government at [museum Kanal - Centre Pompidou](http://kanal.brussels/en) in Brussels from 22 until 24 March 2019.
 
+More info on [jerrygalle.com](https://jerrygalle.com/projects/ressobject/)
+
 
 ![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010115.JPG)
 ![](https://tools-for-things-and-ideas.github.io/images/resurrected-object-1010118.JPG)
