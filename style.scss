@@ -215,6 +215,7 @@ nav {
   float: none;
   margin-top: 15px; // @TODO: Vertically middle align
   font-family: $sitename;
+  display: block;
   font-size: 18px;
 
   @include mobile {
