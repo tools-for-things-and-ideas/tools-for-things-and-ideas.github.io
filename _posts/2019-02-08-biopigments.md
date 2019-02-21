@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Bio pigments
+summary: Coloring filament with algae based pigments
 published: true
 ---
-With María Boto from the [bio-lab](http://laboratorium.bio/) at the School of Arts in Ghent, we did a first test to infuse PLA filament with microalgae pigments. We started from PLA Granulate, added the color powder to it and gave it a good shake to distribute the color onto the surface of the pellets. Then we extruded the pellets in the same way regular PLA filament would be extruded. It's interesting to see how the powder doesn't dissolve, but is rather suspended in the filament. This results in a sparkly texture. 
+With María Boto from the [bio-lab](http://laboratorium.bio/) at the School of Arts in Ghent, we did a first test to infuse PLA filament with microalgae pigments. We started from PLA Granulate, added the color powder to it and gave it a good shake to distribute the color onto the surface of the pellets. Then we extruded the pellets in the same way regular PLA filament would be extruded. It's interesting to see how the powder doesn't dissolve, but is rather suspended in the filament. This results in a sparkly texture.
 
 A project from María Boto and Elias Heuninck.
 
@@ -35,20 +36,20 @@ Next up was a blue pigment called phycocyanin. It is created by the bacteria [Sp
 
 ![](/images/biocolor-1010205.JPG)
 ![](/images/biocolor-1010208.JPG)
-This pigment clumped together in dense pigment blobs, resulting in a very uneven extrusion. 
+This pigment clumped together in dense pigment blobs, resulting in a very uneven extrusion.
 
-I thought these clumps would clogg a 3D printer nozzle immediately, but they seem to extrude rather well. The problem is that the filament doesn't have a consistent diameter. This makes the extrusion unpredictable, but also jams the filament when used in a bowden extruder printer. 
+I thought these clumps would clogg a 3D printer nozzle immediately, but they seem to extrude rather well. The problem is that the filament doesn't have a consistent diameter. This makes the extrusion unpredictable, but also jams the filament when used in a bowden extruder printer.
 
 ![](/images/biocolor-1010214)
 ![](/images/biocolor-1010215)
-With a direct extruder, it seems to work better than expected. 
+With a direct extruder, it seems to work better than expected.
 
 ![](/images/biocolor-1010230.JPG)
 ![](/images/biocolor-1010240.JPG)
-The orange-to yellow color variations are due to a slow transition from the carotene pigment to the blue one. 
+The orange-to yellow color variations are due to a slow transition from the carotene pigment to the blue one.
 
 ![](/images/biocolor-1010233.JPG)
-The blue pigment didn't survive the heat. It turned a dark brown/grey color. 
+The blue pigment didn't survive the heat. It turned a dark brown/grey color.
 
 
 
@@ -72,4 +73,3 @@ The extrusion turns the pigment into very small particles of pigment. The heat m
 
 ![](/images/biocolor-1010243.JPG)
 I'll call this one stracciatella!
- 
