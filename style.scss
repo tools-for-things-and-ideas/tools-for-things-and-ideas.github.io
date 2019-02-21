@@ -295,9 +295,12 @@ p.summary {
 
 .poster {
   width: 260px;
+  display: block;
+  float: left;
 }
 
 div.poster > h3 {
+  line-height: 1.;
   margin: 1em 0 0px;
 }
 
