@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 17px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -95,7 +95,7 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: circle;
+  list-style-type: square;
 }
 
 em, i {
@@ -122,12 +122,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $darkGray;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $darkGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -156,7 +156,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid $black;
+  text-align: center;
 
   @include mobile {
     text-align: center;
@@ -214,8 +215,8 @@ img {
 nav {
   float: none;
   margin-top: 15px; // @TODO: Vertically middle align
-  font-family: $sitename;
   display: block;
+  font-family: $sitename;
   font-size: 18px;
 
   @include mobile {
@@ -277,7 +278,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $white;
 }
 
 footer {
