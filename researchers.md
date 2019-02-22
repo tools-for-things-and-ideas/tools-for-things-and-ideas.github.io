@@ -16,6 +16,7 @@ The researchers for 'tools for things and ideas' are:
 - <a href="http://eliasheuninck.be/" target="_blank">Elias Heuninck</a>
 - <a href="http://wwwwwwwww.jodi.org/" target="_blank">JODI</a>
 - <a href="http://julienmaire.blogspot.com/" target="_blank">Julien Maire</a>
+- <a href="http://v2.nl/archive/people/boris-debackere/" target="_blank">Boris Debackere</a>
 - <a href="http://www.joostrekveld.net/" target="_blank">Joost Rekveld</a>
 - <a href="http://jararocha.blogspot.com/" target="_blank">Jara Rocha</a>
 - <a href="http://machinemachine.net/" target="_blank">Daniel Rourke</a>
