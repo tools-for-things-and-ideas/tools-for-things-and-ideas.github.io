@@ -307,9 +307,12 @@ p.summary > a {
 
 .poster > h3 {
   color: #FF0;
-  color: $blue;
   line-height: 1;
   margin: 1em 0 5px; // top, right, bottom
+}
+
+a > p {
+  rgb(194, 111, 191)
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
