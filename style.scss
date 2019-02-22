@@ -292,12 +292,10 @@ footer {
 p.summary {
   margin: 0px 0 5px; //  top, right, bottom
   line-height: 1;
-  color: rgb(194, 111, 191);
 }
 
 p.summary > a {
   text-decoration: none;
-  color: #9f0;
 }
 
 .poster {
@@ -307,13 +305,8 @@ p.summary > a {
 }
 
 div.poster > a > h3 {
-  color: #FF0;
   line-height: 1;
   margin: 1em 0 5px; // top, right, bottom
-}
-
-a > p {
-  // WORKS
 }
 
 
