@@ -5,8 +5,7 @@ summary: A mapping of contamporary stalagmites
 poster-image: Waste_Objects-poster.jpg
 published: true
 ---
-A collaboration with [Lisa Wilkens](http://www.lisawilkens.com/), who will work with drawings and [Emi Kodama](http://emikodama.com/), who will
-write a story.
+A collaboration with [Lisa Wilkens](http://www.lisawilkens.com/), who will work with drawings and [Emi Kodama](http://emikodama.com/), who will write a story.
 
 One of the 3D printers at Formlab has a drawer on the bottom of the machine that collects waste
 material. The waste material solidifies while new material keeps dripping down. Small 3D prints make
@@ -22,3 +21,4 @@ object. It’s unwanted but not rejected. I imagine it to be like a shadow of th
 
 ![](/images/waste-objects-01.jpg)
 ![](/images/waste-objects-02.jpg)
+![](/images/waste-objects-03.jpg)
