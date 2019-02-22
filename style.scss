@@ -294,8 +294,9 @@ p.summary {
   line-height: 1;
 }
 
-a.summary {
+p.summary > {
   text-decoration: none;
+  color: #9f0;
 }
 
 .poster {
