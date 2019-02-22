@@ -294,7 +294,7 @@ p.summary {
   line-height: 1;
 }
 
-p.summary > {
+p.summary > a {
   text-decoration: none;
   color: #9f0;
 }
@@ -305,7 +305,7 @@ p.summary > {
   float: left;
 }
 
-div.poster > h3 {
+.poster > h3 {
   color: $blue;
   line-height: 1;
   margin: 1em 0 5px; // top, right, bottom
