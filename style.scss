@@ -294,7 +294,7 @@ p.summary {
   line-height: 1;
 }
 
-p.summary > a {
+a > p.summary {
   text-decoration: none;
 }
 
@@ -306,7 +306,7 @@ p.summary > a {
 
 div.poster > a > h3 {
   line-height: 1;
-  margin: 1em 0 5px; // top, right, bottom
+  margin: 1em 0 8px; // top, right, bottom
 }
 
 
