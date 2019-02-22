@@ -292,6 +292,7 @@ footer {
 p.summary {
   margin: 0px 0 5px; //  top, right, bottom
   line-height: 1;
+  color: rgb(194, 111, 191);
 }
 
 p.summary > a {
@@ -305,15 +306,16 @@ p.summary > a {
   float: left;
 }
 
-.poster > h3 {
+div.poster > a > h3 {
   color: #FF0;
   line-height: 1;
   margin: 1em 0 5px; // top, right, bottom
 }
 
 a > p {
-  color: rgb(194, 111, 191);
+  // WORKS
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
