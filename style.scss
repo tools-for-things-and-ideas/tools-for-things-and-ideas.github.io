@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -291,8 +291,8 @@ footer {
 
 
 p.summary {
-  margin: 0px 0 3px; //  top, right, bottom
-  line-height: 0.8;
+  margin: 0px 0 5px; //  top, right, bottom
+  line-height: 1;
 }
 
 .poster {
@@ -303,7 +303,7 @@ p.summary {
 
 div.poster > h3 {
   line-height: 1;
-  margin: 1em 0 3px; // top, right, bottom
+  margin: 1em 0 10px; // top, right, bottom
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
