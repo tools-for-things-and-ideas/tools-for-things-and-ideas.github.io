@@ -236,7 +236,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
@@ -305,7 +304,8 @@ a.summary {
   float: left;
 }
 
-div.poster > a > h3 {
+div.poster > h3 {
+  color: $blue;
   line-height: 1;
   margin: 1em 0 5px; // top, right, bottom
 }
