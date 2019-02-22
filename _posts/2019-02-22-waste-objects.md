@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waste Objects
-summary: A mapping of contamporary stalagmites
+summary: A mapping of contemporary stalagmites
 poster-image: Waste_Objects-poster.jpg
 published: true
 ---
