@@ -9,4 +9,4 @@ Inject or place bee DNA into a 3d printed dodecahedron shape to preserve it for 
 
 A project by Jerry Galle
 
-![](https://tools-for-things-and-ideas.github.io/images/beetorrent_poster.png)
+![](https://tools-for-things-and-ideas.github.io/images/beetorrent-post.jpg)
