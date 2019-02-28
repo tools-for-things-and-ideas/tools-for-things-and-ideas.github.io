@@ -12,10 +12,10 @@ A simple hack that inserts a short pause after every move in a Gcode file makes 
 ![](/images/stuttercode-1022065.jpg)
  
  
-![](/images/stuttercode-cura.jpg)<br />
+![](/images/stuttercode-cura.jpg)
 In this first test, we sliced a simple cylinder with a concentric top/bottom pattern and exported the Gcode file.
 
-![](/images/stuttercode-original_gcode.jpg) 
+![](/images/stuttercode-original_gcode.jpg)<br />
 This is the original Gcode, opened in a text processor.
 
 ![](/images/stuttercode-grep.jpg) 
