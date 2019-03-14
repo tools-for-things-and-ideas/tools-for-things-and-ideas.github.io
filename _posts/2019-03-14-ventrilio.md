@@ -36,6 +36,12 @@ To move 'the smart Turk' around we will use the Dobot robot arm with a custom ma
 Possible libraries to work with to send coordinates to the robots are this [one](https://github.com/luismesas/pydobot) or this [one](https://github.com/WarrG3X/dobot-rl). <br>
 The [Edge TPU devices](https://aiyprojects.withgoogle.com/edge-tpu) could serve as the brain for Ventrilio.
 
+To start using this library, type in command line terminal: <br>
+```python
+pip install pydobot
+```
+Then run this example Python code to check if everything connects.
+
 ```python
 import time
 from glob import glob
