@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ventrilio
-summary: Appropriating a form of critical and robotic AI ventriloquism.
+summary: Appropriating a form of critical<br> and robotic AI ventriloquism.
 poster-image: ventrilio-poster.png
 published: true
 ---
