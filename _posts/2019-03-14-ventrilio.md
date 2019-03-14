@@ -32,4 +32,9 @@ from several api’s such as this [one.](https://github.com/jbrower95/Pornhub-Co
 
 ![](/images/ventrilio03.png)
 
+To move 'the smart Turk' around we will use this robot arm with a custom mad mechanism to manipulate mouth and ears of Ventrilio. 
+![](/images/ventrilio-dobot.jpg)
+
 ![](/images/ventrilioDummy.png)
+
+This project is in the making.
