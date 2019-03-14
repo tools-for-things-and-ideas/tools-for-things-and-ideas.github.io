@@ -6,7 +6,6 @@ ventriloquism and flirts with the unsettling —uncanny valley.
 poster-image: ventrilio-poster.png
 published: true
 ---
-
 VENTRILIO: The Smart Turk <br>
 by Jerry Galle & Boris Debackere<br>
 
