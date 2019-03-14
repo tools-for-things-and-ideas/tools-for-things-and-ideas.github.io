@@ -33,7 +33,8 @@ from several api’s such as this [one.](https://github.com/jbrower95/Pornhub-Co
 ![](/images/ventrilio03.png)
 
 To move 'the smart Turk' around we will use this robot arm with a custom made mechanism to manipulate its mouth and eyes.<br> 
-Possible libraries to work with to send coordinates to the robots are this [one](https://github.com/luismesas/pydobot) or this [one](https://github.com/WarrG3X/dobot-rl).
+Possible libraries to work with to send coordinates to the robots are this [one](https://github.com/luismesas/pydobot) or this [one](https://github.com/WarrG3X/dobot-rl). <br>
+The [Edge TPU devices](https://aiyprojects.withgoogle.com/edge-tpu) could serve as the brain for Ventrilio. 
 
 ![](/images/ventrilio-dobot.jpg)
 
