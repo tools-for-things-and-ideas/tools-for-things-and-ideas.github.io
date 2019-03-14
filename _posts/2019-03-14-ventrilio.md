@@ -21,8 +21,7 @@ VENTRILIO is an installation consisting of a robot arm, a doll, a Raspberry Pi a
 loudspeaker. The doll is custom made with the use of 3D printing. The electronic setup is
 hidden inside the dummy’s clothing. The audio is produced with a small inbuilt speaker
 connected to a Raspberry Pi where the AI processes are generated. The data is gathered
-from several api’s such as this one:
-https://github.com/jbrower95/Pornhub-Comment-Scraper
+from several api’s such as this [one]: (https://github.com/jbrower95/Pornhub-Comment-Scraper)
 
 ![](/images/ventrilio03.png)
 
