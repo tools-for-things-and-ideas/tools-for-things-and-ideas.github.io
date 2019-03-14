@@ -1,3 +1,10 @@
+---
+layout: post
+title: Ventrilio
+summary: Appropriating a form of critical and robotic AI ventriloquism.
+poster-image: ventrilio-poster.png
+published: true
+---
 VENTRILIO: The Smart Turk <br>
 by Jerry Galle & Boris Debackere<br>
 
