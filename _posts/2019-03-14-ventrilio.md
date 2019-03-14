@@ -32,7 +32,7 @@ from several api’s such as this [one.](https://github.com/jbrower95/Pornhub-Co
 
 ![](/images/ventrilio03.png)
 
-To move 'the smart Turk' around we will use the Dobot robot arm with a custom made mechanism to manipulate its mouth and eyes.<br> 
+To move 'the smart Turk' around we will use the Dobot robot arm with a custom made mechanized extension to manipulate its mouth and eyes.<br> 
 Possible libraries to work with to send coordinates to the robots are this [one](https://github.com/luismesas/pydobot) or this [one](https://github.com/WarrG3X/dobot-rl). <br>
 The [Edge TPU devices](https://aiyprojects.withgoogle.com/edge-tpu) could serve as the brain for Ventrilio. 
 
