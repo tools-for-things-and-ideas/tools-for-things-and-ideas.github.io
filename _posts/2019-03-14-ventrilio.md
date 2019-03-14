@@ -1,3 +1,12 @@
+---
+layout: post
+title: Ventrilio: The Smart Turk
+summary: VENTRILIO appropriates a form of critical
+ventriloquism and flirts with the unsettling —uncanny valley.
+poster-image: ventrilio-poster.png
+published: true
+---
+
 VENTRILIO: The Smart Turk <br>
 by Jerry Galle & Boris Debackere<br>
 
