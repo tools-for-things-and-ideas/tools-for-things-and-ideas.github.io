@@ -43,6 +43,7 @@ pip install pydobot
 Then run this example Python code to check if everything connects.
 
 ```python
+
 import time
 from glob import glob
 
@@ -62,6 +63,7 @@ device.speed(10)
 device.go(250.0, 0.0, 0.0)
 time.sleep(2)
 device.close()
+
 ```
 
 ![](/images/ventrilio-dobot.jpg)
