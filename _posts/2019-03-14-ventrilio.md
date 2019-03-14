@@ -8,7 +8,7 @@ published: true
 VENTRILIO: The Smart Turk <br>
 by Jerry Galle & Boris Debackere<br>
 
-Those who talk should do and only those who do should talk.
+Those who talk should do and only those who do should talk.<br>
 Scars signal skin in the game. <br>
 ― Nassim Nicholas Taleb, Skin in the Game: The Hidden Asymmetries in Daily Life
 
