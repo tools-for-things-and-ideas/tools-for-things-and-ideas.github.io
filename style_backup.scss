@@ -244,16 +244,10 @@ nav {
 // .main
 //
 
-.posts {
-  display: flex; // https://internetingishard.com/html-and-css/flexbox/#setup
-  justify-content:flex-start;
-  flex-wrap: wrap;
-}
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-  //float: left;
+  float: left;
 }
 
 .posts > .post:last-child {
@@ -307,10 +301,7 @@ a > p.summary {
 .poster {
   width: 260px;
   display: block;
-  //float: left;
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start; // cross-axis or vertical align
+  float: left;
 }
 
 div.poster > a > h3 {

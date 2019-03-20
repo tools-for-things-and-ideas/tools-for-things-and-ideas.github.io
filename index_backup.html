@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+      <div class="poster">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+          <p class="summary">{{post.summary}}</p>
+          <img src="/images/{{post.poster-image}}" alt="">
+        </a>
+    </div>
+  {% endfor %}
+</div>
+
+
+
+<!-- <div class="posts">
+  {% for post in site.posts %}
+  <ul><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></ul>
+  {% endfor %}
+</div> -->
