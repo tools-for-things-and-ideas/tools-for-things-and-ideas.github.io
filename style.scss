@@ -254,8 +254,9 @@ nav {
   flex-direction: column;
 
   @include mobile {
-    height: 99999px;
-    justify-content: center;
+    height: 9999px;
+    justify-content:flex-start;
+    align-content: center;
 
   }
 }
