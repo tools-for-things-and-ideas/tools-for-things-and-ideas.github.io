@@ -251,6 +251,10 @@ nav {
   align-content: flex-start;
   flex-wrap: wrap;
   flex-direction: column;
+  
+  @include mobile {
+    height: 99999px;
+  }
 }
 
 .posts > .post {
