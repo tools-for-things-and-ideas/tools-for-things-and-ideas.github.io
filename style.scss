@@ -248,15 +248,15 @@ nav {
 
   height: 1300px; // Set a fixed height so each div will wrap to the right when it's at the full length of the column
   display: flex; // https://internetingishard.com/html-and-css/flexbox/#setup
-  justify-content:flex-start;
-  align-content: flex-start;
+  justify-content:flex-start; // in column mode, this means: move the content towards the top
+  align-content: flex-start; // in column mode, this means: move the content towards the left
   flex-wrap: wrap;
   flex-direction: column;
 
   @include mobile {
-    height: 9999px;
-    justify-content:flex-start;
-    align-content: center;
+    height: 9999px; // make the .posts div very tall, so no wrapping occurs in phone mode
+    justify-content:flex-start; // in column mode, this means: move the content towards the top
+    align-content: center; // in column mode, this means: center the content horizontally
 
   }
 }
