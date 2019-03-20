@@ -2,7 +2,7 @@
 layout: post
 title: Droplet Printing
 summary: A voxel approach to 3D printing
-poster-image: droplet-printing-first-drop.jpg
+poster-image: droplet-printing-poster.jpg
 published: true
 ---
 
