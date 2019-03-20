@@ -247,7 +247,9 @@ nav {
 .posts {
   display: flex; // https://internetingishard.com/html-and-css/flexbox/#setup
   justify-content:flex-start;
+  align-content:flex-start;
   flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .posts > .post {
