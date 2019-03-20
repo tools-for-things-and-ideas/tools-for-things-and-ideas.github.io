@@ -246,9 +246,6 @@ nav {
 
 .posts {
 
-  column-count: 3; // https://w3bits.com/css-masonry/
-  column-gap: 1px;
-  /*
   height: 1200px; // Set a fixed height so each div will wrap to the right when it's at the full length of the column
   display: flex; // https://internetingishard.com/html-and-css/flexbox/#setup
   justify-content:flex-start;
@@ -258,19 +255,14 @@ nav {
 
   @include mobile {
     height: 99999px;
+    justify-content: center;
+
   }
-  */
 }
 
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-
-  display: inline-block; // https://w3bits.com/css-masonry/
-  margin: 0 0 1em;
-  width: 100%;
-
-  //float: left;
 }
 
 .posts > .post:last-child {
