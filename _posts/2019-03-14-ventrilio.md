@@ -49,7 +49,7 @@ Gain access to the port in terminal: <br>
 ```python
 sudo chmod 666 /dev/ttyUSB0
 ```
-Then run this example Python code to check if everything connects.
+Then run this example Python code to check if everything works. If you're working on a mac use mask for OSX as written below. For Linux, use port found with commands above.
 
 ```python
 
