@@ -40,7 +40,16 @@ To start using this library, type in command line terminal: <br>
 ```python
 pip install pydobot
 ```
-Then run this example Python code to check if everything connects.
+Check for Dobot after connecting it to your computer in terminal:<br>
+```python
+python -m serial.tools.list_ports
+```
+
+Gain access to the port in terminal: <br>
+```python
+sudo chmod 666 /dev/ttyUSB0
+```
+Then run this example Python code to check if everything works. If you're working on a mac use mask for OSX as written below. For Linux, use port found with commands above.
 
 ```python
 
