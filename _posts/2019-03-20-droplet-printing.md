@@ -29,7 +29,7 @@ This is a work in process.
 |![](/images/droplet-printing-05.jpg)|Coordinates of the drops and the base didn't lign up properly, so I decided to create a parametric base, instead of using the Gcode-output from a slicer. I followed the guide on [creating G-code from Processing](http://www.codeplastic.com/2017/06/05/g-code-with-processing-part-1/) by [CodePlastic](http://www.codeplastic.com).|
 |![](/images/droplet-printing-06.jpg)|This one has about 0.1mm thickness. Too thin.|
 |![](/images/droplet-printing-07.jpg)|I settled on a base layer height of 0.14mm.|
-|![](/images/droplet-printing-08.jpg)|first parametric drops. Not priming material after retracting at the end of the previous print, created some under extrusion at the top of the test piece.|
+|![](/images/droplet-printing-08.jpg)|First parametric drops. Not priming material after retracting at the end of the previous print, created some under extrusion at the top of the test piece.|
 |![](/images/droplet-printing-09.jpg)|Fixed the under extrusion but made a mistake again when switching from absolute to relative extruder coordinates.|
 |![](/images/droplet-printing-10.jpg)|Smaller drops and more under extrusion.|
 |![](/images/droplet-printing-11.jpg)|Bigger drops and more under extrusion.|
