@@ -332,10 +332,14 @@ div.poster > a > h3 {
 }
 
 // table formatting
-td {
+td, th {
   padding: 2px;
-  background-color: orange;
+  background-color: red;
   vertical-align: top;
+}
+
+td, th > img {
+  max-width: 20%;
 }
 
 
