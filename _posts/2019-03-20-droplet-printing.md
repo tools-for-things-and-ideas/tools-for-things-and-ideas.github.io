@@ -15,7 +15,7 @@ This admittedly inefficient printing method would perhaps allow for a more spong
 
 The experiments are being done on a [Lulzbot Taz-6](https://www.lulzbot.com/store/printers/lulzbot-taz-6), but the principle should work on any FFF printer.
 
-This is a work in process.
+This is a work in progress.
 
 ![](/images/droplet-printing-first-drop.jpg)
 
