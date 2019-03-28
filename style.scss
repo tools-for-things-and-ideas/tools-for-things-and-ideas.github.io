@@ -334,13 +334,15 @@ div.poster > a > h3 {
 // table formatting
 td, th {
   padding: 2px;
-  background-color: blue;
+  background-color: purple;
   vertical-align: top;
+  text-align: left;
 }
 
 td > img, th > img {
   max-width: none;
 }
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
