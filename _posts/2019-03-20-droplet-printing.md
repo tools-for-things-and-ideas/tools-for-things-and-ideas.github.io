@@ -13,6 +13,10 @@ Slicers make a 3D printer move in contour lines. This is an efficient method to 
 In this experiment, I'll be looking into the possibilities of a [voxel](https://en.wikipedia.org/wiki/Voxel) based approach. Instead of lines, the plastic model would be built up droplet per droplet.
 This admittedly inefficient printing method would perhaps allow for a more sponge like texture, or a printing method based on images or coordinates. So a water-tight mesh object isn't necessary for this method. We still have to keep gravity and thus overhang angles in mind.
 
+The experiments are being done on a [Lulzbot Taz-6](https://www.lulzbot.com/store/printers/lulzbot-taz-6), but the principle should work on any FFF printer.
+
+This is a work in process.
+
 ![](/images/droplet-printing-first-drop.jpg)
 
 
