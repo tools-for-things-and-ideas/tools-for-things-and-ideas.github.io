@@ -43,8 +43,9 @@ Creating a sponge like object:
 |![](/images/droplet-printing-18.jpg)|Maybe the shifting sequence allows for too much space, so the lines become squiggly.|
 |![](/images/droplet-printing-20.jpg)|Still all by all a rather rectangular shape. Air can pass easily through it.|
 |![](/images/droplet-printing-19.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
-
-
+ 
+ 
+  
 Making big blobs with a 3D printer:
 
 |![](/images/droplet-printing-22.jpg)|By manually extruding copious amounts of plastic through a 0.8mm nozzle, a 3D printer can make very un-3D print like objects.|
