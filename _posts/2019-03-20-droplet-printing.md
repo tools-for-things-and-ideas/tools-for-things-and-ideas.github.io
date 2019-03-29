@@ -21,6 +21,7 @@ This is a work in progress.
 
 
 Creating a sponge like object:
+
 |![](/images/droplet-printing-01.jpg)|As a first test, I used the gcode from a flattened cube and added a single drop.|
 |---|---|
 |![](/images/droplet-printing-02.jpg)|Three hardcoded rows with different extrusion amounts.|
@@ -45,10 +46,11 @@ Creating a sponge like object:
 
 
 Making big blobs with a 3D printer:
+
 |![](/images/droplet-printing-22.jpg)|By manually extruding copious amounts of plastic through a 0.8mm nozzle, a 3D printer can make very un-3D print like objects.|
 |---|---|
 |![](/images/droplet-printing-23.jpg)|The shape seems to be determined by the cooling rather than by the plastic extrusion.|
-|![](/images/droplet-printing-27.jpg)| |
+|![](/images/droplet-printing-27.jpg)|This could be the building block of new objects|
 |![](/images/droplet-printing-25.jpg)|In this test, we tried to keep the nozzle as deeply submerged in the plastic as we could. The plastic would be about a millimeter away from the heater element at all times.|
 |![](/images/droplet-printing-15.jpg)|These tests were done on a printbed at room temperature.|
 |![](/images/droplet-printing-15.jpg)|Curious what a heated bed and automated extrusion and Z-axis motion will result in.|
