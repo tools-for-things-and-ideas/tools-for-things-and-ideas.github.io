@@ -20,7 +20,7 @@ This is a work in progress.
 ![](/images/droplet-printing-first-drop.jpg)
 
 
-
+Creating a sponge like object.
 |![](/images/droplet-printing-01.jpg)|As a first test, I used the gcode from a flattened cube and added a single drop.|
 |---|---|
 |![](/images/droplet-printing-02.jpg)|Three hardcoded rows with different extrusion amounts.|
@@ -37,3 +37,18 @@ This is a work in progress.
 |![](/images/droplet-printing-13.jpg)|Just shifting the second layer on the Y axis, the new drop seem to rest on the two neighbouring ones. The drops seem to be pushed down too much.|
 |![](/images/droplet-printing-14.jpg)|Moving the nozzle heigher for the second layer, I hoped to prevent the drops from being pushed down, but the filament was ground away.|
 |![](/images/droplet-printing-15.jpg)|I cleaned the feeder motor bolt and lowered the extrusion speeds. I also doubled the extrusion amount for layer 2.|
+|![](/images/droplet-printing-16.jpg)|Making a taller object by stacking layers, shifting them to allow for cavities in the structure.|
+|![](/images/droplet-printing-17.jpg)|The top view looks pretty similar to the previous ones.|
+|![](/images/droplet-printing-18.jpg)|Maybe the shifting sequence allows for too much space, so the lines become squiggly.|
+|![](/images/droplet-printing-20.jpg)|Still all by all a rather rectangular shape. Air can pass easily through it.|
+|![](/images/droplet-printing-19.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
+
+
+Making big blobs with a printer.
+|![](/images/droplet-printing-22.jpg)|By manually extruding copious amounts of plastic through a 0.8mm nozzle, a 3D printer can make very un-3D print like objects.|
+|---|---|
+|![](/images/droplet-printing-23.jpg)|The shape seems to be determined by the cooling rather than by the plastic extrusion.|
+|![](/images/droplet-printing-27.jpg)||
+|![](/images/droplet-printing-25.jpg)|In this test, we tried to keep the nozzle as deeply submerged in the plastic as we could. The plastic would be about a millimeter away from the heater element at all times.|
+|![](/images/droplet-printing-15.jpg)|These tests were done on a printbed at room temperature.|
+|![](/images/droplet-printing-15.jpg)|Curious what a heated bed and automated extrusion and Z-axis motion will result in.|
