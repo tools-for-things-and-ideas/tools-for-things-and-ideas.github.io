@@ -53,5 +53,4 @@ Making big blobs with a 3D printer:
 |![](/images/droplet-printing-23.jpg)|The shape seems to be determined by the cooling rather than by the plastic extrusion.|
 |![](/images/droplet-printing-27.jpg)|This could be the building block of new objects|
 |![](/images/droplet-printing-25.jpg)|In this test, we tried to keep the nozzle as deeply submerged in the plastic as we could. The plastic would be about a millimeter away from the heater element at all times.|
-|![](/images/droplet-printing-15.jpg)|These tests were done on a printbed at room temperature.|
-|![](/images/droplet-printing-15.jpg)|Curious what a heated bed and automated extrusion and Z-axis motion will result in.|
+|![](/images/droplet-printing-26.jpg)|These tests were done on a printbed at room temperature. Curious what a heated bed and automated extrusion and Z-axis motion will result in.|
