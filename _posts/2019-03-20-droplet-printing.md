@@ -6,16 +6,14 @@ poster-image: droplet-printing-poster.jpg
 published: true
 ---
  
-Slicers make a 3D printer move in contour lines. This is an efficient method to build up conventional models. But coming from a context of digital images, I wonder if there might be an alternative to this method.
-In this experiment, I'll be looking into the possibilities of a [voxel](https://en.wikipedia.org/wiki/Voxel) based approach. Instead of lines, the plastic model would be built up droplet per droplet. 
-This admittedly unefficient printing method would allow for a more sponge like texture.
+
 Slicers make a 3D printer move in contour lines. This is an efficient method to build up conventional models. But coming from a context of digital images, I wonder if there might be an alternative to this method that is closer to the pixel.
 In this experiment, I'll be looking into the possibilities of a [voxel](https://en.wikipedia.org/wiki/Voxel) based approach. Instead of lines, the plastic model would be built up droplet per droplet.
-This admittedly inefficient printing method would perhaps allow for a more sponge like texture, or a printing method based on images or coordinates. So a water-tight mesh object isn't necessary for this method. We still have to keep gravity and thus overhang angles in mind.
+This admittedly inefficient printing method would perhaps allow for a more sponge like texture, or a printing method based on images or coordinates. So a water-tight mesh object isn't necessary for this method. We still have to keep gravity and thus overhang angles in mind. Unless we add droplets of PVA to the mix.
 
-The experiments are being done on a [Lulzbot Taz-6](https://www.lulzbot.com/store/printers/lulzbot-taz-6), but the principle should work on any FFF printer.
+The experiments are being done on a [Lulzbot Taz-6](https://www.lulzbot.com/store/printers/lulzbot-taz-6), but the principle should work on any FFF printer. The printing filament used is in house recycled PLA.
 
-This is a work in progress.
+This is a research project in progress.
 
 ![](/images/droplet-printing-first-drop.jpg)
 
@@ -38,11 +36,11 @@ Creating a sponge like object:
 |![](/images/droplet-printing-13.jpg)|Just shifting the second layer on the Y axis, the new drop seem to rest on the two neighbouring ones. The drops seem to be pushed down too much.|
 |![](/images/droplet-printing-14.jpg)|Moving the nozzle heigher for the second layer, I hoped to prevent the drops from being pushed down, but the filament was ground away.|
 |![](/images/droplet-printing-15.jpg)|I cleaned the feeder motor bolt and lowered the extrusion speeds. I also doubled the extrusion amount for layer 2.|
-|![](/images/droplet-printing-16.jpg)|Making a taller object by stacking layers, shifting them to allow for cavities in the structure.|
+|![](/images/droplet-printing-16.jpg)|Making a taller object by stacking layers, shifting them half the size of a droplet (First no shift, then +X, then -Y, then -X, then back to the first XY position), to allow for cavities in the structure.|
 |![](/images/droplet-printing-17.jpg)|The top view looks pretty similar to the previous ones.|
 |![](/images/droplet-printing-18.jpg)|Maybe the shifting sequence allows for too much space, so the lines become squiggly.|
-|![](/images/droplet-printing-20.jpg)|Still all by all a rather rectangular shape. Air can pass easily through it.|
-|![](/images/droplet-printing-19.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
+|![](/images/droplet-printing-19.jpg)|Still all by all a rather rectangular shape. Air can pass easily through it.|
+|![](/images/droplet-printing-20.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
  
  
   
