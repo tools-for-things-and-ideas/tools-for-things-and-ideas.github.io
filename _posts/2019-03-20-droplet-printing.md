@@ -53,6 +53,11 @@ This is a research project in progress.
 |![](/images/droplet-printing-32.jpg)|This is how it looks after the extrusion is slowed down|
 |![](/images/droplet-printing-33.jpg)|The first stacking test had a way too large z-height|
 |![](/images/droplet-printing-34.jpg)|Corrected Z-height. Maybe this is a little too packed. There are almost no air pockets anymore. I could increase the droplet height or the grid size.|
+|![](/images/droplet-printing-35.jpg)|A droplet height of 3 instead of 2mm|
+|![](/images/droplet-printing-36.jpg)|A droplet height of 4mm|
+|![](/images/droplet-printing-37.jpg)|A droplet height of 5mm|
+
+
 
   
 ### Single big blobs:
