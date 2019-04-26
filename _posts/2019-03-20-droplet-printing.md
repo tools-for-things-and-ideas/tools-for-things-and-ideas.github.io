@@ -42,7 +42,17 @@ Creating a sponge like object:
 |![](/images/droplet-printing-19.jpg)|Still all by all a rather rectangular shape. Air can pass easily through it.|
 |![](/images/droplet-printing-20.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
  
- 
+  
+Bigger droplets:
+|![](/images/droplet-printing-28.jpg)|Extruding too little material while raising the Z-axis too fast and too far results in little chimney like structures.|
+|---|---|
+|![](/images/droplet-printing-29.jpg)|Starting 1mm above the base, with 3mm extrusion. This is not yet enough material for the Z-height traveled.|
+|![](/images/droplet-printing-30.jpg)|5mm extrusion this time. Still not enough. I waited 4 seconds after moving the nozzle up to let the tips cool down. This way they don't bow down .|
+|![](/images/droplet-printing-31.jpg)|10mm material extrusion. The exstrusion is too fast and leaves a rough texture.|
+|![](/images/droplet-printing-32.jpg)|This is how it looks after the extrusion is slowed down|
+|![](/images/droplet-printing-33.jpg)|The first stacking test had a way too large z-height|
+|![](/images/droplet-printing-34.jpg)|Corrected Z-height. Maybe this is a little too packed. There's almost no air pockets anymore. I should increase the droplet height or increase the grid size.|
+
   
 Making big blobs with a 3D printer:
 

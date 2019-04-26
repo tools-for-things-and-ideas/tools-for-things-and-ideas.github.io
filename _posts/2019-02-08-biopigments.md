@@ -27,7 +27,11 @@ We add the mixture to the filament extruder. We're using the [Next extruder](htt
 The resulting filament is a semi transparent orange with fine color particles suspended in the plastic.
 
 ![](/images/biocolor-1010206.JPG)
-We printed two small test-bars. One is kept in the dark while the other is exposed to sunlight. Because the color is of biological origin, the colors will fade over time. If changes are observed, we will update them here.
+We printed two small test-bars. One is kept in the dark while the other is exposed to sunlight. Because the color is of biological origin, the colors will fade over time.
+
+![](/images/biocolor-1022394.jpg)
+The bar on the left-bottom was kept in the dark, while the bar on the top-right was exposed to indoor sunlight over the course of about 2 months.
+
 
 ### Blue
 
