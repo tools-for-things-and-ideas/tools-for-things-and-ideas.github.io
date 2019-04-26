@@ -44,6 +44,7 @@ Creating a sponge like object:
  
   
 Bigger droplets:
+
 |![](/images/droplet-printing-28.jpg)|Extruding too little material while raising the Z-axis too fast and too far results in little chimney like structures.|
 |---|---|
 |![](/images/droplet-printing-29.jpg)|Starting 1mm above the base, with 3mm extrusion. This is not yet enough material for the Z-height traveled.|
