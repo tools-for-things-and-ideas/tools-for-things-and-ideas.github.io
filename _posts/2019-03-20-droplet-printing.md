@@ -18,7 +18,7 @@ This is a research project in progress.
 ![](/images/droplet-printing-first-drop.jpg)
 
 
-Creating a sponge like object:
+### Creating a sponge like object:
 
 |![](/images/droplet-printing-01.jpg)|As a first test, I used the gcode from a flattened cube and added a single drop.|
 |---|---|
@@ -43,7 +43,7 @@ Creating a sponge like object:
 |![](/images/droplet-printing-20.jpg)|For some reason the backside turned out detached from the rest. The outsides are the exceptions of the shifting pattern. I'm curious how the inside looks like.|
  
   
-Bigger droplets:
+### Bigger droplets:
 
 |![](/images/droplet-printing-28.jpg)|Extruding too little material while raising the Z-axis too fast and too far results in little chimney like structures.|
 |---|---|
@@ -55,7 +55,7 @@ Bigger droplets:
 |![](/images/droplet-printing-34.jpg)|Corrected Z-height. Maybe this is a little too packed. There's almost no air pockets anymore. I should increase the droplet height or increase the grid size.|
 
   
-Making big blobs with a 3D printer:
+### Single big blobs:
 
 |![](/images/droplet-printing-22.jpg)|By manually extruding copious amounts of plastic through a 0.8mm nozzle, a 3D printer can make very un-3D print like objects.|
 |---|---|
