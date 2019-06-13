@@ -80,3 +80,45 @@ device.close()
 ![](/images/ventrilioDummy.png)
 
 This project is in the making.
+
+
+![](/images/ventrilio-stitching-ear.jpg)
+
+Fixing mesh errors around the ears
+
+![](/images/ventrilio-inside-head.jpg)
+
+The shape that will be cut out the head to make room for the chin joint
+
+![](/images/ventrilio-head-in-head.jpg)
+
+Ready to be cut out
+
+![](/images/ventrilio-side-view.jpg)
+
+Side view
+
+![](/images/ventrilio-chin.jpg)
+
+Chin shape
+
+![](/images/ventrilio-back-view.jpg)
+
+Looking into the head from the back
+
+![](/images/ventrilio-servo-mount.jpg)
+
+A close up on the servo mount
+
+![](/images/ventrilio-render.jpg)
+
+A mockup render
+
+
+
+
+
+
+
+
+
