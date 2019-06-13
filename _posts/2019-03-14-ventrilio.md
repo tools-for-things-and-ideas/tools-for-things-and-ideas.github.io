@@ -106,7 +106,7 @@ Chin shape
 
 Looking into the head from the back
 
-![](/images/ventrilio-servo mount.jpg)
+![](/images/ventrilio-servo-mount.jpg)
 
 A close up on the servo mount
 
