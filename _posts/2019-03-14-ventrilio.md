@@ -114,6 +114,16 @@ A close up on the servo mount
 
 A mockup render
 
+![](/images/ventrilo-base-alone_web.jpg)
+
+A base for the robot arm. It will house a Raspberry pi and a sound amplifier.
+
+![](/images/ventrilo-base-with-arm_web.jpg)
+
+The base with the arm attached
+
+
+
 
 
 
