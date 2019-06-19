@@ -122,7 +122,13 @@ A base for the robot arm. It will house a Raspberry pi and a sound amplifier.
 
 The base with the arm attached
 
+![](/images/ventrilio-dobot-base.jpg)
 
+This is the base when 3D printed. On the right are the support structures that were removed after printing.
+
+![](/images/ventrilio-dobot-attached-to-base.jpg)
+
+This is how the Dobot robot arm attaches to the base
 
 
 
