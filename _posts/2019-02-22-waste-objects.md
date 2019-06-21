@@ -31,7 +31,6 @@ object. It’s unwanted but not rejected. I imagine it to be like a shadow of th
 #### Scanning the objects
 
 ![](/images/waste-objects-shape-back.JPG)
-![](/images/waste-objects-shape-front.JPG)
 Let's take one of the objects to show the scanning process.
 
 ![](/images/waste-objects-scan_result_bad.jpg)
@@ -39,7 +38,6 @@ The wax like object is quite hard to make a 3D scan of. The scanner is light bas
 
 ![](/images/waste-objects-Ardrox-9D1B.JPG)
 ![](/images/waste-objects-shape-white-back.JPG)
-![](/images/waste-objects-shape-white-front.JPG)
 Using a developer spray like Ardrox 9D1B, the object gets a light coating of fine white powder.
 
 ![](/images/waste-objects-scan-result-better.jpg)
