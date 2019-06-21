@@ -28,7 +28,7 @@ object. It’s unwanted but not rejected. I imagine it to be like a shadow of th
  
  
  
-#### Scanning the objects
+### Scanning the objects
 
 ![](/images/waste-objects-shape-back.JPG)
 Let's take one of the objects to show the scanning process.
@@ -37,18 +37,19 @@ Let's take one of the objects to show the scanning process.
 The wax like object is quite hard to make a 3D scan of. The scanner is light based and the object disperses the light under the surface, confusing the software. The result of the scan is low on detail and due to the uncertainty of the measurements, there are many holes.
 
 ![](/images/waste-objects-Ardrox-9D1B.JPG)
-![](/images/waste-objects-shape-white-back.JPG)
 Using a developer spray like Ardrox 9D1B, the object gets a light coating of fine white powder.
 
-![](/images/waste-objects-scan-result-better.jpg)
-This coating makes it clearer for the scanner to see the surface, with a more detailed and continuous 3D model as a result.
+![](/images/waste-objects-shape-white-back.JPG)
+This coating makes it clearer for the scanner to see the surface.
 
-![](/images/waste-objects-scanning-1.JPG)
+![](/images/waste-objects-scan-result-better.jpg)
+A scan of the coated object results in a more detailed and continuous 3D model as a result.
+
 ![](/images/waste-objects-scanning-2.JPG)
 All sides of the object are scanned
 
 ![](/images/waste-objects-stitching-scans.jpg)
-Multiple scans are stitched together
+By aligning the meshes, multiple scans are stitched together.
 
 ![](/images/waste-objects-propping-up-the-shape.JPG)
 The object is propped up to expose otherwise hard to reach corners
@@ -57,4 +58,4 @@ The object is propped up to expose otherwise hard to reach corners
 The last step is to fill remaining holes. This results in a watertight mesh.
 
 
-#### Baking the detail to a normal map
+### Baking the detail to a normal map
