@@ -130,6 +130,13 @@ This is the base when 3D printed. On the right are the support structures that w
 
 This is how the Dobot robot arm attaches to the base
 
+![](/images/ventrilio-chin-hinge-assembly.jpg)
+
+The chin hinge assembly, with its supports still attached
+
+![](/images/ventrilio-chin-and-hinge-assembled.jpg)
+
+The chin and hinge assembled
 
 
 
