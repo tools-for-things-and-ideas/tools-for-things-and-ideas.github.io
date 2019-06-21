@@ -22,12 +22,12 @@ object. It’s unwanted but not rejected. I imagine it to be like a shadow of th
 ![](/images/waste-objects-01.jpg)
 ![](/images/waste-objects-02.jpg)
 ![](/images/waste-objects-03.jpg)
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 #### Scanning the objects
 
 ![](/images/waste-objects-shape-back.JPG)
