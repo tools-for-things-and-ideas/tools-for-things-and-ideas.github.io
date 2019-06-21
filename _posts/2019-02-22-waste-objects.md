@@ -24,7 +24,7 @@ object. It’s unwanted but not rejected. I imagine it to be like a shadow of th
 ![](/images/waste-objects-03.jpg)
 
 
-##### Scanning the objects
+#### Scanning the objects
 
 ![](/images/waste-objects-shape-back.JPG)
 ![](/images/waste-objects-shape-front.JPG)
@@ -55,4 +55,4 @@ The object is propped up to expose otherwise hard to reach corners
 The last step is to fill remaining holes. This results in a watertight mesh.
 
 
-##### Baking the detail to a normal map
+#### Baking the detail to a normal map
