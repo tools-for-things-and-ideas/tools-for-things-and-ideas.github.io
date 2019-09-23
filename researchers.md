@@ -8,7 +8,7 @@ The researchers for 'tools for things and ideas' are:
 
 - <a href="https://www.peterbeyls.net/" target="_blank">Peter Beyls</a>
 - <a href="http://laboratorium.bio" target="_blank">María Boto Ordoñez</a>
-- <a href="https://jamesbridle.com/" target="_blank">James Bridle</a>
+- <a href="http://www.plummerfernandez.com/" target="_blank">Matthew Plummer-Fernandez</a>
 - <a href="http://jocaimo.blogspot.com/" target="_blank">Jo Caimo</a>
 - <a href="https://portapak.be/" target="_blank">Anouk De Clercq</a>
 - <a href="https://driesdepoorter.be/" target="_blank">Dries Depoorter</a>
