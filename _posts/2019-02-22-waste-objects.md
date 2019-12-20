@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Waste Objects
+title: In need for some tacos
 summary: Mapping contemporary stalagmites
 poster-image: Waste_Objects-poster.jpg
 published: true
 ---
-A collaboration with [Lisa Wilkens](http://www.lisawilkens.com/), who will work with drawings and [Emi Kodama](http://emikodama.com/), who will write a story.
+A collaboration with [Lisa Wilkens](http://www.lisawilkens.com/), who will work with drawings and [Emi Kodama](http://emikodama.com/), who wrote and narrated a story.
 
 One of the 3D printers at Formlab has a drawer on the bottom of the machine that collects waste
 material. The waste material solidifies while new material keeps dripping down. Small 3D prints make
@@ -18,6 +18,12 @@ lava and at the same time bear the traces of the high tech machine that made the
 that these objects have this ambiguity in them. It makes me think of the oppositions: creation and
 waste, intention and accident, precision and carelessness, being visible and invisible. It's an accidental
 object. It’s unwanted but not rejected. I imagine it to be like a shadow of the 3D printed object.
+
+![](/images/waste-objects-04.jpg)
+![](/images/waste-objects-05.jpg)
+
+
+
 
 ![](/images/waste-objects-01.jpg)
 ![](/images/waste-objects-02.jpg)
