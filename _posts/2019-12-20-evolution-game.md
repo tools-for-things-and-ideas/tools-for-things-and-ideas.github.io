@@ -6,6 +6,8 @@ poster-image: evolution-game_poster.jpg
 published: true
 ---
 
+Pepa Ivanova's Evolution game provides a presentation grid in which visitors can rearrange the objects presented to their liking. The objects are an open experimental platform for hybrid forms. 3D printed objects are combined with hair or human teeth, glitter powder with glass beads, copper infused or fluorescent plastic.
+
 ![](/images/evolution-game-01.jpg)
 
 ![](/images/evolution-game-02.jpg)
