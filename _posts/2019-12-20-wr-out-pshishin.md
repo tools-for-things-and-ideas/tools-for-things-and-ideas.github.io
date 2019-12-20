@@ -36,7 +36,7 @@ Elias Heuninck - In need for some Taco's
 Jerry Galle - AI Object recognition - Infrathin
 
 ![](/images/wr-out-pshishin-09.jpg)
-JODI - [http://213d.org](213d.org)
+JODI - [213d.org](http://213d.org)
 
 ![](/images/wr-out-pshishin-10.jpg)
 Julien Maire - High voltage photography
