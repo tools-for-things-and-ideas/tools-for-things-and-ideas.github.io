@@ -19,24 +19,24 @@ The research project Tools for Things and Ideas is financed by the research fund
 
 
 ![](/images/wr-out-pshishin-02.jpg)
-Peter Beyls
+[Peter Beyls](https://www.peterbeyls.net/)
 
 ![](/images/wr-out-pshishin-03.jpg)
-Pepa Ivanova - Evolution game
+[Pepa Ivanova - Evolution game](http://www.pepaivanova.com/projects.html)
 
 ![](/images/wr-out-pshishin-04.jpg)
-Lisette Dr Greeuw - Notationlanguage_01 & Notationlanguage_02 
+[Lisette Dr Greeuw - Notationlanguage_01 & Notationlanguage_02](http://www.lisettedegreeuw.com/)
 
 ![](/images/wr-out-pshishin-05.jpg)
-Elias Heuninck - In need for some Taco's
+[Elias Heuninck - In need for some Taco's](http://eliasheuninck.be/)
 
 ![](/images/wr-out-pshishin-06.jpg)
 ![](/images/wr-out-pshishin-07.jpg)
 ![](/images/wr-out-pshishin-08.jpg)
-Jerry Galle - AI Object recognition - Infrathin
+[Jerry Galle - AI Object recognition - Infrathin](https://jerrygalle.com/projects/ai-object-recognition/)
 
 ![](/images/wr-out-pshishin-09.jpg)
-JODI - [213d.org](http://213d.org)
+[JODI - 213d.org](http://213d.org)
 
 ![](/images/wr-out-pshishin-10.jpg)
-Julien Maire - High voltage photography
+[Julien Maire - High voltage photography](http://julienmaire.blogspot.com/)
