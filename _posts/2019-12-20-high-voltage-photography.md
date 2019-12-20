@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Evolution game'
-summary: A step towards hybrid forms
+title: 'High voltage photography'
+summary: Printing with light
 poster-image: high-voltage-photography_poster.jpg
 published: true
 ---
