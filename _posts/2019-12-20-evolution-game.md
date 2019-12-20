@@ -2,7 +2,7 @@
 layout: post
 title: 'Evolution game'
 summary: A step towards hybrid forms
-poster-image: wr-out-pshishin_poster.jpg
+poster-image: evolution-game_poster.jpg
 published: true
 ---
 
