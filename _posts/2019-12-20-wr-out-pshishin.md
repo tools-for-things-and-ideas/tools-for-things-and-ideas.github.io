@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wr out phishin'
+title: "W'r out phishin'"
 summary: Group exhibition showing preliminary research results
 poster-image: wr-out-pshishin_poster.jpg
 published: true
