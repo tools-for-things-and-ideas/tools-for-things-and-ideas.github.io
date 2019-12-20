@@ -6,4 +6,8 @@ poster-image: wr-out-pshishin_poster.jpg
 published: true
 ---
 
-![](/images/wr-out-pshishin-01.jpg)
+![](/images/evolution-game-01.jpg)
+
+![](/images/evolution-game-02.jpg)
+
+![](/images/evolution-game-03.jpg)
