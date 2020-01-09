@@ -5,8 +5,7 @@ summary: The ramblings of a bot art critic
 poster-image: ai-object-recognition-poster.jpg
 published: true
 ---
-AI object recognition, infrathin<br>
-by Jerry Galle<br>
+A project by Jerry Galle<br>
 
 
 What does it mean when machines learn to identify images and objects? Their myriad descriptions display internal complexities that seem to hinder them from identifying objects in a straightforward fashion. 
