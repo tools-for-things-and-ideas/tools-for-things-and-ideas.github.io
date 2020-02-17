@@ -78,3 +78,11 @@ The extrusion turns the pigment into very small particles of pigment. The heat m
 
 ![](/images/biocolor-1010243.JPG)
 I'll call this one stracciatella!
+
+### Objects
+
+![](/images/biocolor-1056268.JPG)
+Three bio filament tests on a small geometric shape. The rightmost one is a regular, non-bio colored translucent orange PLA.
+
+![](/images/biocolor-1056274.jpg)
+A bigger version of the carotene pigment shows variations over time.
