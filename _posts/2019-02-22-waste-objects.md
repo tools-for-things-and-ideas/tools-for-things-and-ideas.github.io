@@ -76,19 +76,19 @@ The last step is to fill remaining holes. This results in a watertight mesh.
 ### Baking the detail to a normal map
 To do: refer to Formlab wiki
 
-### Syncrhonizing events to a video
+### Synchronizing events to a video
 For a follow up version of this project I want to fire events at predetermined moments in a video. In the video, the 3D scanned wax objects are recorded by virtual cameras. To tie the digital and physical versions of the objects together, LED lights will illuminate the physical objects at the same time and position of the digital camera's. This way the ambiguity of the objects is doubled in the presentation of the video installation. 
 
-This is a technical summary of the test setup demonstrating how to execute events syncrhonized to a video. A Raspberry pi plays a video and sends out the playback-position to an Arduino. The Arduino executes events based on pre specified timestamps. The idea is based on [this forum post](https://stackoverflow.com/a/46834834): OMXPlayer is a command line video player that is built into Raspberry pi. We only need omxplayer-wrapper to control the player though a Python script.
+This is a technical summary of the test setup demonstrating how to execute events syncrhonized to a video. A Raspberry Pi plays a video and sends out the playback-position to an Arduino. The Arduino executes events based on pre specified timestamps. The idea is based on [this forum post](https://stackoverflow.com/a/46834834). [OMXPlayer](https://elinux.org/Omxplayer) is a command line video player that is built into Raspberry Pi. We only need to install [omxplayer-wrapper](https://pypi.org/project/omxplayer-wrapper/) to control the player though a Python script.
 
 * Components: 
   * Raspberry Pi 4 (2Gb ram version)
   * Arduino Due
-* Raspberry pi needs an operating system. I'm using Raspbian 3.3.1 (named 'Buster'), and I installed it on the micro SD card with the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/). This is an installer that will format the SD card and use a Noobs (**n**ew **o**ut **o**f the **b**ox **s**oftware) zip file to install the operating system.
-* Before installing omxplayer-wrapper, you will need to install some other software packages that omxplayer-wrapper needs. Open the terminal on the raspberry pi and copy-paste the line under [OS pre-requisite installation](https://python-omxplayer-wrapper.readthedocs.io/en/latest/#installation). I had an error executing this: “E: unable to locate package libdbus-1”. Based on [this](https://github.com/willprice/python-omxplayer-wrapper/issues/168) issue report, it was suggested to try this line: "sudo apt install -y libdbus-1-3 libdbus-1-dev".
-* The next step is to [install](https://python-omxplayer-wrapper.readthedocs.io/en/latest/#installation) omxplayer-wrapper itself. After the install, the wrapper didn't work. I think it happened because the Python version in the terminal defaulted to Python 2 instead of 3. The Python editor (Thonny IDE) uses Python 3 by default, hence it couldn't find the wrapper. If you use **pip3** instead of **pip**, the wrapper installs in the Python 3 environment, so it can be found by the script.
-* The raspberry pi needs to have the video on it's system in order to display it. I used wetransfer to send it to the raspberry pi.
-* I made the following script, and saved it as a .py file on the Raspberry pi. In the Thonny IDE, I could press run in order to execute the script.
+* Raspberry Pi needs an operating system. I'm using Raspbian 3.3.1 (named 'Buster'), and I installed it on the micro SD card with the [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/). This is an installer that will format the SD card and use a Noobs (**n**ew **o**ut **o**f the **b**ox **s**oftware) zip file to install the operating system.
+* Before installing omxplayer-wrapper, you will need to install some other software packages that omxplayer-wrapper needs. Open the terminal on the raspberry pi and copy-paste the line under [OS pre-requisite installation](https://python-omxplayer-wrapper.readthedocs.io/en/latest/#installation). I had an error executing this: “E: unable to locate package libdbus-1”. Based on [this](https://github.com/willprice/python-omxplayer-wrapper/issues/168) issue report, it was suggested to try this line if the default installation didn't work: "sudo apt install -y libdbus-1-3 libdbus-1-dev".
+* The next step is to [install](https://python-omxplayer-wrapper.readthedocs.io/en/latest/#installation) omxplayer-wrapper itself. After trying to run the omxwraper script, I got an error message saying the command couldn't be found. I think it happened because the Python version in the terminal defaults to Python 2 instead of 3. This means the wrapper was installed fine, but in the Python 2 directory instead of the Python 3 one. The Python editor (Thonny IDE) uses Python 3 by default, hence it couldn't find the wrapper. If you use **pip3** instead of **pip**, the wrapper installs the wrapper in the Python 3 environment, so it can be found by the script.
+* The Raspberry Pi needs to have the video on it's system in order to display it. I used [Wetransfer](wetransfer.com) to send it to the raspberry pi.
+* I made the following script, and saved it as a .py file on the Raspberry Pi. In the Thonny IDE, I could press run in order to execute the script.
 
 ```python
 #!/usr/bin/env python3
@@ -129,13 +129,13 @@ while (1):
 player.quit()
 ```
 
-* connect the two microcontrollers with a USB cable. On the raspberry pi, any usb port works. On the Arduino Due, you'll need to connect to the programming port. That is the usb port closest to the power input barrel jack. The Arduino will be powered over USB by the raspberry pi.
-* open the video you want to synchronise, find the frames that you're interesting in (in this project's case: all the first frames after a cut in the video) and convert them to milliseconds: in the case of a 25fps movie: (frame * 25) * 1000. Use these values in the array array *positions[]* in the following code block.
-* Upload the following script to the Arduino Due. It receives the time in milliseconds from the Raspberry pi and executes code based on the predetermined times in the array. **Press the erase button on the Arduino 3 seconds prior to uploading the code.** You will need to do this every time you upload new code.
+* Connect the two microcontrollers with a USB cable. On the raspberry pi, any usb port works. On the Arduino Due, you'll need to connect to the programming port. That is the usb port closest to the power input barrel jack. The Arduino will be powered over USB by the raspberry pi.
+* Open the video you want to synchronise on your computer, find the frames that you're interesting in (in this project's case: all the first frames after a cut in the video) and convert them to milliseconds: in the case of a 25fps movie: (frame * 25) * 1000. Use these values in the array array *positions[]* in the following code block.
+* Upload the following script to the Arduino Due. It receives the time in milliseconds from the Raspberry Pi and executes code based on the predetermined times in the array. **Press the erase button on the Arduino 3 seconds prior to uploading the code.** You will need to do this every time you upload new code.
 
-```C++
+```cpp
 /*
-Raspberry pi streams the current position of the video playhead in milliseconds.
+Raspberry Pi streams the current position of the video playhead in milliseconds.
 Based on predetermined time values, code can be executed in sync with the video.
 It is not a perfect sync, but I expect the error to be smaller than a single frame (40 milliseconds in the case of 25fps).
 In this example, the built-in LED changes state every time there's a cut in the video.
@@ -246,11 +246,11 @@ void syncActions () {
 ```
 
 #### Helpful references:
-omxplayer-wrapped commands & info
-* options: https://github.com/popcornmix/omxplayer#synopsis
-* api docs: https://python-omxplayer-wrapper.readthedocs.io/en/latest/omxplayer/
+omxplayer-wrapper commands & info
+* [options](https://github.com/popcornmix/omxplayer#synopsis)
+* [api docs](https://python-omxplayer-wrapper.readthedocs.io/en/latest/omxplayer/)
 
 Serial communication
-* https://forum.arduino.cc/index.php?topic=396450.0
-* https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
-* https://learn.sparkfun.com/tutorials/serial-communication/all
+* [introduction tutorial](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
+* [introduction tutorial](https://learn.sparkfun.com/tutorials/serial-communication/all)
+* [blog-post-tutorial with examples](https://forum.arduino.cc/index.php?topic=396450.0)
