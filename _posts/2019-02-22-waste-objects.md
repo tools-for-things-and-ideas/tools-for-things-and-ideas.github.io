@@ -74,6 +74,7 @@ The last step is to fill remaining holes. This results in a watertight mesh.
 
 
 ### Baking the detail to a normal map
+To do: refer to Formlab wiki
 
 ### Syncrhonizing events to a video
 For a follow up version of this project I want to fire events at predetermined moments in a video. In the video, the 3D scanned wax objects are recorded by virtual cameras. To tie the digital and physical versions of the objects together, LED lights will illuminate the physical objects at the same time and position of the digital camera's. This way the ambiguity of the objects is doubled in the presentation of the video installation. 
