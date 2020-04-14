@@ -94,23 +94,31 @@ This is a technical summary of the test setup demonstrating how to execute event
 #!/usr/bin/env python3
 
 # play video and send the milliseconds over serial to Arduino
-# based on: https://stackoverflow.com/questions/45532783/fire-events-at-specific-timestamps-during-video-playback 
+# based on: https://stackoverflow.com/questions/45532783/fire-events-at-specific-timestamps-during-video-playback from omxplayer import OMXPlayer
 
+import serial.tools.list_ports
 from omxplayer import OMXPlayer
 from pathlib import Path
 from time import sleep
 import serial
 
-# setup the serial connection
-# open terminal and type: "ls /dev/tty*" to find the port name
-port = "/dev/ttyACM0" # this value can change every time you reconnect the arduino
-rate = 57600 # baud rate
+# automatically find the port name of the Seral connection for Arduino
+ports = list(serial.tools.list_ports.comports(include_links=True))
+port = ""
+for p in ports:
+    if "Arduino" in p.description:
+        port = p.device
+print(port)
 
+# setup the serial connection
+rate = 57600
 ser = serial.Serial(port,rate)
 ser.flushInput()
 
-VIDEO_PATH = Path("tacos.mp4") # pointing to a test-video
-player = OMXPlayer(VIDEO_PATH, args=['--no-osd', '--blank']) #'--loop', # for testing '--loop' has been left out
+# Setup the player as shown in omxplayer-wrapper examples :
+VIDEO_PATH = Path("tacos.mp4")
+player = OMXPlayer(VIDEO_PATH, args=['--no-osd', '--blank']) #'--loop', # for testing, '--loop' has been left out
+player.mute # for testing
 player.pause()
 sleep(3)
 player.play()
@@ -119,13 +127,20 @@ player.play()
 while (1):
     position = player.position() * 1000
     print('%02d' % position) # format as ints and print. This is for debugging
-    
+
     # send the position to the arduino
-    position_encoded = b'%d\n' %position # encode int to bytes + add a newline character
+    position_encoded = b'%d\n' %position # encode int to bytes + added a newline character
     ser.write(position_encoded)
-    
+
     if(position >= 133000): #stop at 2 min and 13 seconds. This is the length of the test-video.
         player.quit()
+
+# events are currently handeled in Arduino, but they could also be handled here:
+#     /* Event timecodes values are stored in "events" */
+#     for event in events.values():
+#         if position - 20 <= event['tc'] and position + 20 >= event['tc']:
+#             /* Put your code here */
+
 player.quit()
 ```
 
