@@ -13,6 +13,7 @@ The researchers for 'tools for things and ideas' are:
 - <a href="http://eliasheuninck.be/" target="_blank">Elias Heuninck</a>
 - <a href="http://www.pepaivanova.com/" target="_blank">Pepa Ivanova</a>
 - <a href="http://wwwwwwwww.jodi.org/" target="_blank">JODI</a>
+- <a href="http://laboratorium.bio/" target="_blank">Laboratorium</a>
 - <a href="http://julienmaire.blogspot.com/" target="_blank">Julien Maire</a>
 - <a href="https://www.instagram.com/kamiel_dewaal/" target="_blank">Kamiel De Waal</a>
 - <a href="http://www.lisawilkens.com/" target="_blank">Lisa Wilkens</a>
